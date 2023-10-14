@@ -1,5 +1,5 @@
 <h1 align="center">Cześć 👋,</h1>
-<p align="center">Nazywam się Kuba Król jestem młodym programistą, z pasją do tworzenia resposywnych i estetycznych stron internetowych.</p>
+<p align="center">Nazywam się Kuba Król jestem młodym programistą.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kubaleek&label=Profile%20views&color=0e75b6&style=flat" alt="kubaleek" /> </p>
 <p align="center"><img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /></p>
 <h3 align="center">Technologia </h3>
