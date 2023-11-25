@@ -1,6 +1,6 @@
 ## :book: O Mnie
 
-<br><br><b><p align="center">Cześć 👋, Nazywam się Kuba Król.</p></b><br>
+<br><br><b><p align="center">Cześć 👋, Nazywam się Kuba Król.</p></b>
 <p align="center"><a href="https://kubaleek.github.io/master-portfolio/%60/">Portfolio</a></p>
 
 
