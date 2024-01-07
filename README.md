@@ -1,6 +1,6 @@
 ## :book: O Mnie
 
-<br><br><b><p>
+<b><p>
 Cześć 👋 Jestem Kuba Król, uczę się w Technikum Programistycznym. 
 Moją wielką pasją jest projektowanie nowoczesnych, responsywnych i estetycznych stron internetowych.
 Każdy nowy projekt to dla mnie nie tylko okazja do zdobycia doświadczenia, ale także szansa na rozwijanie mojego portfolio.
