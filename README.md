@@ -1,6 +1,12 @@
 ## :book: O Mnie
 
-<br><br><b><p align="center">Cześć 👋, Nazywam się Kuba Król.</p></b>
+<br><br><b><p align="center">
+Cześć 👋 Jestem Kuba Król, uczę się w Technikum Programistycznym. 
+Moją wielką pasją jest projektowanie nowoczesnych, responsywnych i estetycznych stron internetowych.
+Każdy nowy projekt to dla mnie nie tylko okazja do zdobycia doświadczenia, ale także szansa na rozwijanie mojego portfolio.
+Aktualnie stawiam sobie za cel dalszą naukę, zdobywanie nowej wiedzy i rozwijanie umiejętności.
+</p></b>
+
 
 
 ## 💻 Technologia:
