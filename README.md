@@ -10,7 +10,6 @@ Aktualnie stawiam sobie za cel dalszą naukę, zdobywanie nowej wiedzy i rozwija
 
 <p align="left">
 <a href="https://linkedin.com/in/kuba król" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuba król" height="30" width="40" /></a>
-<a href="https://discord.gg/kubalek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kubalek" height="30" width="40" /></a>
 </p>
 
 ## 💻 Technologia:
