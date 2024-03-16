@@ -8,10 +8,6 @@ Każdy nowy projekt to dla mnie nie tylko okazja do zdobycia doświadczenia, ale
 Aktualnie stawiam sobie za cel dalszą naukę, zdobywanie nowej wiedzy i rozwijanie umiejętności.
 </p></b>
 
-<p align="left">
-<a href="[https://linkedin.com/in/kuba król](https://www.linkedin.com/in/kuba-kr%C3%B3l-9b4946274/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuba król" height="30" width="40" /></a>
-</p>
-
 ## 💻 Technologia:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
