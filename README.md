@@ -20,5 +20,11 @@ Aktualnie stawiam sobie za cel dalszą naukę, zdobywanie nowej wiedzy i rozwija
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)   
 
+## 📩 Kontakt
+<p> Zapraszam do kontaktu w sprawie projektów lub współpracy </p>
+
+📧 E-mail: kuba.krol.ldz@gmail.com
+
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kuba-kr%C3%B3l-9b4946274/)
 
 
