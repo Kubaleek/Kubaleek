@@ -23,10 +23,10 @@ Aktualnie stawiam sobie za cel dalszą naukę, zdobywanie nowej wiedzy i rozwija
 ## 📩 Kontakt
 <p> Zapraszam do kontaktu w sprawie projektów lub współpracy </p>
 
-📧 E-mail: kuba.krol.ldz@gmail.com
+📧 E-mail: <b>kuba.krol.ldz@gmail.com</b>
 
-📲 Discord: kubalek
+📲 Discord: <b>kubalek</b>
 
-💼 LinkedIn: [Kuba Król](https://www.linkedin.com/in/kuba-kr%C3%B3l-9b4946274/)
+💼 LinkedIn: <b>[Kuba Król](https://www.linkedin.com/in/kuba-kr%C3%B3l-9b4946274/)</b>
 
 
