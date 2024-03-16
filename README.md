@@ -1,5 +1,5 @@
 ---
-### :book: O Mnie
+## :book: O Mnie
 
 <b><p>
 Cześć 👋 Jestem Kuba Król, uczę się w Technikum Programistycznym. 
