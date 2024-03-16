@@ -9,7 +9,7 @@ Aktualnie stawiam sobie za cel dalszą naukę, zdobywanie nowej wiedzy i rozwija
 </p></b>
 
 <p align="left">
-<a href="https://linkedin.com/in/kuba król" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuba król" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/kuba król](https://www.linkedin.com/in/kuba-kr%C3%B3l-9b4946274/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuba król" height="30" width="40" /></a>
 </p>
 
 ## 💻 Technologia:
