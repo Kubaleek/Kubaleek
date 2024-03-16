@@ -19,6 +19,6 @@ Aktualnie stawiam sobie za cel dalszą naukę, zdobywanie nowej wiedzy i rozwija
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)   
 
 ## 📊 Github Statystyki:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kubaleek&show_icons=true&locale=en" alt="kubaleek" /></p>
+![Kubaleek's Stats](https://github-readme-stats.vercel.app/api?username=Kubaleek&theme=default&show_icons=true&hide_border=false&count_private=true)
 
 
