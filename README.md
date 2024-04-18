@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">Cześć 👋 Jestem Kuba Król, uczę się w Technikum Programistycznym. Moją wielką pasją jest projektowanie nowoczesnych, responsywnych i estetycznych stron internetowych. Każdy nowy projekt to dla mnie nie tylko okazja do zdobycia doświadczenia, ale także szansa na rozwijanie mojego portfolio. Aktualnie stawiam sobie za cel dalszą naukę, zdobywanie nowej wiedzy i rozwijanie umiejętności.</p>
+<p align="left">Cześć 👋 Jestem Kuba Król, uczę się w Technikum Programistycznym. Moją wielką pasją jest projektowanie nowoczesnych, responsywnych i estetycznych stron internetowych. Każdy nowy projekt to dla mnie nie tylko okazja do zdobycia doświadczenia, ale także szansa na rozwijanie mojego portfolio. Aktualnie stawiam sobie za cel dalszą naukę, zdobywanie nowej wiedzy i rozwijanie umiejętności. </p>
 
 ###
 
-<br clear="both">
+<br clear="left">
 
 <h2 align="left">💻 Główna Technologia:</h2>
 
@@ -31,7 +31,10 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
-<br clear="both">
+
+###
+
+<br clear="left">
 
 <h2 align="left">💫 Inne:</h2>
 
