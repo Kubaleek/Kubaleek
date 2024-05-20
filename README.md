@@ -17,7 +17,7 @@
   
 </div>
 
-<h2>💻 Aktualnie się uczę</h2>
+<h2>🚀 Aktualnie się uczę</h2>
 
 <div align="center">
 <img height="40" width="40" src="https://cdn.simpleicons.org/react/1f8bcf" /> <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/1d85e0" />
