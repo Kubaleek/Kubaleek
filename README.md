@@ -9,7 +9,7 @@
 
 <h2>💻 Moje narzędzia i technologie</h2>
 
-<div align="center">
+<div align="left">
 
 | **Frontend** | **Backend** | **Inne** |
 | :------------: | :-----------: | :-----------: |
@@ -19,6 +19,6 @@
 
 <h2>🚀 Aktualnie się uczę</h2>
 
-<div align="center">
+<div align="left">
 <img height="40" width="40" src="https://cdn.simpleicons.org/react/1f8bcf" /> <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/1d85e0" />
 </div>
