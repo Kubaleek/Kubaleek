@@ -20,5 +20,5 @@
 <h2>🚀 Aktualnie się uczę</h2>
 
 <div align="left">
-<img height="40" width="40" src="https://cdn.simpleicons.org/react/1f8bcf" /> <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/1d85e0" />
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/react/1f8bcf" /></code> <code><img height="32" width="32" src="https://cdn.simpleicons.org/typescript/1d85e0" /></code>
 </div>
