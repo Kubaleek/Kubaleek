@@ -5,6 +5,7 @@
 ### 📖 O Mnie
 + > Freelancer 👤
 + > Uczę się w Technikum Programistycznym. Moją wielką pasją jest projektowanie nowoczesnych, responsywnych i estetycznych stron internetowych. Każdy nowy projekt to dla mnie nie tylko okazja do zdobycia doświadczenia, ale także szansa na rozwijanie mojego portfolio. Aktualnie stawiam sobie za cel dalszą naukę, zdobywanie nowej wiedzy i rozwijanie umiejętności.
++ > Nie publikuje repozytoriów, które wymagają połączenia z serwerem baz danych.
 <br clear="left">
 
 <h2>💻 Moje narzędzia i technologie</h2>
