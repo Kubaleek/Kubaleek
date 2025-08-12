@@ -8,3 +8,5 @@ Obecnie uczę się w technikum na kierunku programisty, gdzie zdobywam solidne p
 Codziennie eksploruję nowe narzędzia, szukając skutecznych i ciekawych rozwiązań. Zapraszam do zapoznania się z moimi projektami to one najlepiej pokazują moją pasję do kodowania!
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kubaleek)
+
+<img width="1500" src="/banner.png" alt="banner readme">
