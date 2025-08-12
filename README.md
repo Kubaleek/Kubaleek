@@ -1,5 +1,13 @@
-## Hi there 👋
+# 🎓 Kuba Król
 
+**`Programista`**
+
+Jestem początkującym programistą z pasją do odkrywania nowych technologii. 
+Od 2022 roku rozwijam swoje umiejętności, ucząc się różnych języków i tworząc praktyczne projekty.
+Obecnie uczę się w technikum na kierunku programisty, gdzie zdobywam solidne podstawy i wykorzystuję je w realnych projektach.
+Codziennie eksploruję nowe narzędzia, szukając skutecznych i ciekawych rozwiązań. Zapraszam do zapoznania się z moimi projektami to one najlepiej pokazują moją pasję do kodowania!
+
+![Odwiedzający](https://visitor-badge.laobi.icu/badge?page_id=kubaleek)
 <!--
 **Kubaleek/Kubaleek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
