@@ -10,3 +10,9 @@ Codziennie eksploruję nowe narzędzia, szukając skutecznych i ciekawych rozwi�
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kubaleek)
 
 <img width="1500" src="/banner.png" alt="banner readme">
+
+## Linki
+
+- Portfolio: https://kubalekdev.pl/
+- Instagram: https://www.instagram.com/kuba.leek/
+- Linkedin: https://www.linkedin.com/in/kuba-kr%C3%B3l-15a226379/
